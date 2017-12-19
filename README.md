@@ -1,1 +1,1 @@
-# symfony3-squeleton
+# symfony3-squeleton VERSION 3.3
